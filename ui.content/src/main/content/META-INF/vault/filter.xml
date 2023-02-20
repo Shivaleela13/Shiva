@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/shiva" mode="merge"/>
+    <filter root="/content/shiva" mode="merge"/>
+    <filter root="/content/dam/shiva" mode="merge"/>
+    <filter root="/content/experience-fragments/shiva" mode="merge"/>
+</workspaceFilter>
